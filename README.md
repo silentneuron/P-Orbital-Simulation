@@ -13,7 +13,7 @@ Great for chemistry students and teachers to understand **orbital shapes** and *
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 - Electron orbitals are represented as **wavefunctions** `ψ(r, θ, φ)`  from Schrödinger equation
 - The **probability density** is `|ψ(r, θ, φ)|²`  
@@ -26,7 +26,7 @@ The visualization uses **isosurfaces** to represent regions of **constant probab
 
 ---
 
-## 🧰 Requirements
+##  Requirements
 
 Flash the python program download the library done!
 
